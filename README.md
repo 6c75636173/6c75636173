@@ -1,28 +1,31 @@
+<h1 align="center">Lucas</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=6c75636173&color=58a6ff&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/6c75636173?label=Followers&style=flat-square&color=58a6ff" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=6c75636173&color=2f81f7&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/6c75636173?label=Followers&style=flat-square&color=2f81f7" alt="followers"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6c75636173&theme=dracula&hide_border=true" alt="activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6c75636173&theme=github-compact&hide_border=true&area=true" alt="activity graph" width="100%"/>
 </p>
 
 ---
 
 ### À propos
 
-Développeur passionné par la création d'applications web, la data et le scripting. Je passe la majorité de mon temps à coder des projets persos, des bots, des mods et des outils d'automatisation.
+Développeur orienté web, data et scripting. Je conçois des applications web, des applis mobiles et des outils d'automatisation.
 
-- **Web & Applicatif :** Développement front-end, interfaces web et bases en ASP.NET MVC
-- **Scripting & Jeux :** Création de scripts et de mods en Lua, bots Discord en Python
-- **Data & IA :** Exploration autour de la Data Science, du Machine Learning et du Deep Learning
+- **En ce moment :** Développement d'un lecteur de musique Android en **Kotlin** (`Simple_Android_Music_Reader`)
+- **Web & Applicatif :** Front-end, interfaces web et bases en **ASP.NET MVC**
+- **Scripting & Bots :** Scripts/mods en **Lua** et bots Discord en **Python**
+- **Data & IA :** Exploration autour de la Data Science et du Machine Learning
 
 ---
 
 ### Stack technique
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,html,css,lua,cpp,mysql,git,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,cs,dotnet,java,py,js,html,css,lua,cpp,mysql,git,vscode,github&theme=dark" />
 </p>
 
 ---
@@ -30,10 +33,10 @@ Développeur passionné par la création d'applications web, la data et le scrip
 ### Statistiques
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6c75636173&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6c75636173&theme=dracula&hide_border=true" alt="streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=6c75636173&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6c75636173&theme=github_dark&hide_border=true" alt="streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6c75636173&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6c75636173&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top langs"/>
 </p>
