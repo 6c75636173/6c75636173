@@ -1,5 +1,3 @@
-<h1 align="center">Lucas</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=6c75636173&color=2f81f7&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/github/followers/6c75636173?label=Followers&style=flat-square&color=2f81f7" alt="followers"/>
